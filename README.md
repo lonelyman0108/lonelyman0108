@@ -1,6 +1,8 @@
-# Hi ~ 👋
 
-<p> <img src="https://komarev.com/ghpvc/?username=lonelyman0108&label=Profile%20views&color=0e75b6&style=flat" alt="lonelyman0108" /> </p>
+
+<img src="https://komarev.com/ghpvc/?username=lonelyman0108&label=Profile%20views&color=0e75b6&style=flat" alt="lonelyman0108" />
+
+![img](./assets/180C6FF9-E6B0-4D06-B707-9F338E32F1A5.png)
 
 ## 📄 About Me
 
@@ -60,8 +62,7 @@
 - On <img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white">  : [id带海子的多少沾点](https://steamcommunity.com/profiles/76561198101401885/)
 - On <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=flat&logo=Playstation&logoColor=white"> : LonelyMan0108
 - On <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"> : @lm0108
-- On E-mail📧 : me#lonelyman.site
 
 
 
-🫶 **Thanks for your visit** <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+# 🫶 Thanks for your visit <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
